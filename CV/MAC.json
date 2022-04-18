@@ -1,0 +1,799 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Alvaro",
+      "surnames": "Cuesta Viñolo",
+      "title": "Backend developer on Continuos improvement",
+      "description": "Informático por vocación.\n\nHago software desde hace algo más de una década, tanto en consultoría como en producto.\n\nMe encanta mi trabajo y el constante aprendizaje que requiere, tanto en su faceta tecnológica como humana.\n\nAlgunas empresas en las que he trabajo son Autentia, Digibis, TwoToForty, Klikin, Waylet y Payvision.\n\nAhora en Manfred...",
+      "avatar": {
+        "alt": "1517343247880 (1).jpeg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/a9f83a88-e414-473c-bb02-8a6909926ef0_1517343247880-(1).jpeg"
+      },
+      "location": {
+        "notes": "Madrid"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/alcuvi/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/acuesta"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/alcuvi"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Sports",
+        "fact": "running, cycling, climbing\nEverything related to the mountain"
+      }
+    ],
+    "recommendations": [
+      {
+        "title": "Clean Code",
+        "type": "reading",
+        "URL": "",
+        "authors": [
+          {
+            "name": "Robert C.",
+            "surnames": "Martin",
+            "title": "Author"
+          }
+        ],
+        "summary": "Clean Code: A Handbook of Agile Software Craftsmanship"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Nurun Spain",
+          "image": {
+            "alt": "1519912573227.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/ab3145de-5860-4d86-b365-20c0bafd5046_1519912573227.jpeg"
+          },
+          "URL": "https://www.nurun.com/"
+        },
+        "roles": [
+          {
+            "name": "Becario - mantenimiento de BBDD",
+            "startDate": "2007-03-01",
+            "finishDate": "2007-09-01",
+            "challenges": [
+              {
+                "description": "Automatización de los procesos de carga de registros (extracción, modificación e inserción) en bases de datos (SQL Server y MySQL) mediante el lenguaje PHP y\nTransac/SQL para el mantenimiento y gestión de diversas páginas web.\n- Diseño de animaciones en Flash 8.\n- Creación de banners.\n- Integración de páginas web diseñadas en Flash con PHP mediante el lenguaje\nActionScript 2.0."
+              }
+            ],
+            "competences": [
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Transact-SQL (T-SQL)",
+                "type": "technology"
+              },
+              {
+                "name": "Flash",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Grupo CMC",
+          "image": {
+            "alt": "1591611103763.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/beb87346-ef42-419e-a509-6f7ad2081053_1591611103763.jpeg"
+          },
+          "URL": "https://www.grupocmc.es"
+        },
+        "roles": [
+          {
+            "name": "Analista - programador",
+            "startDate": "2008-01-01",
+            "finishDate": "2008-09-01",
+            "challenges": [
+              {
+                "description": "Desarrollo de diversas funcionalidades en java para una aplicación web de juntas de accionistas."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "JSF",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Sopra Steria",
+          "image": {
+            "alt": "1625145380667.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/ab0b5b34-899e-44a6-9fec-9f2253c29654_1625145380667.jpeg"
+          },
+          "URL": "https://www.soprasteria.es"
+        },
+        "roles": [
+          {
+            "name": "Analista - programador",
+            "startDate": "2008-09-01",
+            "finishDate": "2010-03-01",
+            "challenges": [
+              {
+                "description": "Desarrollo de diversos proyectos J2EE para la administración pública.\nConocimientos adquiridos:\n - Struts\n - JAXB\n - Axis2"
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Struts",
+                "type": "technology"
+              },
+              {
+                "name": "J2EE",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Autentia Real Business Solutions SL",
+          "image": {
+            "alt": "1645439664015.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/767a68e7-9227-4eb5-bb1d-3514486e8da9_1645439664015.jpeg"
+          },
+          "URL": "https://www.autentia.com"
+        },
+        "roles": [
+          {
+            "name": "Consultor tecnológico",
+            "startDate": "2010-04-01",
+            "finishDate": "2015-02-01",
+            "challenges": [
+              {
+                "description": "Desarrollo en equipos de arquitectura realizando las siguientes funciones:\n- Diseño e implementación de arquitecturas basadas en REST.\n- Diseño, modelado e implementación de recursos REST.\n- Participación en grupos de supervisión tanto del modelado de recursos como de la correcta implementación de los mismos.\n- Implantación de metologías ágiles: Scrum y Kanban.\n- Construcción de un simulador REST, capaz de funcionar en modo proxy junto con una aplicación para su administración.\n- Empleo de herramientas para el seguimiento de proyectos: JIRA, Greenhooper, Pivotal Tracker.\n\nTecnologías:\n- Java: Spring, Spring Security, JSF, Struts, EJBs, JPA, Spring ROO, Hibernate, Alfresco, Solr, Mule ESB, JMS.\n- Javascript: Backbone, Marionette, Require.\n- Web: HTML5, CSS3, Javascript, jQuery.\n- Gestión de la configuración: Maven, Ant.\n- Control de versiones: Git, Subversion, CVS, Accurev\n- Test automáticos y calidad de código: JUnit, Powermock, mockito, Selenium, Jenkins, JMeter.\n- Obtención de métricas para analizar la calidad del cógido: Sonar.\n- Bases de datos: Oracle, MySQL, PostgreSQL, SQL Server, Liquibase.\n- Servidores de aplicaciones/web: JBoss, Tomcat, Jetty."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "JBoss",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "Maven",
+                "type": "technology"
+              },
+              {
+                "name": "Selenium",
+                "type": "technology"
+              },
+              {
+                "name": "Hibernate",
+                "type": "technology"
+              },
+              {
+                "name": "Jmeter",
+                "type": "technology"
+              },
+              {
+                "name": "Sonar",
+                "type": "technology"
+              },
+              {
+                "name": "Struts",
+                "type": "technology"
+              },
+              {
+                "name": "JPA",
+                "type": "technology"
+              },
+              {
+                "name": "EJB",
+                "type": "technology"
+              },
+              {
+                "name": "JUnit",
+                "type": "technology"
+              },
+              {
+                "name": "Mockito",
+                "type": "technology"
+              },
+              {
+                "name": "Solr",
+                "type": "technology"
+              },
+              {
+                "name": "Tomcat",
+                "type": "technology"
+              },
+              {
+                "name": "J2EE",
+                "type": "technology"
+              },
+              {
+                "name": "Backbone",
+                "type": "technology"
+              },
+              {
+                "name": "Subversion",
+                "type": "technology"
+              },
+              {
+                "name": "Jetty",
+                "type": "technology"
+              },
+              {
+                "name": "MarionetteJS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Digibis",
+          "image": {
+            "alt": "1519919525518.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/53b5abcd-9758-4a81-b3b3-69947683863f_1519919525518.jpeg"
+          },
+          "URL": "http://www.digibis.com"
+        },
+        "roles": [
+          {
+            "name": "Consultor tecnológico",
+            "startDate": "2015-03-01",
+            "finishDate": "2016-12-01",
+            "challenges": [
+              {
+                "description": "- Introducción de las técnicas de Scrum y kanban como herramientas de desarrollo en el equipo.\n- Migración de la aplicación Digihub para adaptarla a las nuevas necesidades de los clientes.\n- Implementación de nueva funcionalidad sobre las aplicaciones Digihub, DigiArch y Digibib (recolector OAI-PMH, archivos y bibliotecas).\n- Definición de la arquitectura en el arranque de los proyectos nuevos.\n- Implementación de un API REST que cubra el modelo de préstamo bibliotecario.\n- Securización e integración del API REST con las aplicaciones actuales."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "J2EE",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "TwoToForty (Matching personas and Business)",
+          "image": {
+            "alt": "1519878615444.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/5c4dca6f-6a30-4cc2-afd0-f3c1a6e02cc6_1519878615444.jpeg"
+          },
+          "URL": "http://www.twotoforty.com"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2016-12-01",
+            "finishDate": "2018-04-01",
+            "challenges": [
+              {
+                "description": "Desarrollo de una plataforma para la evaluación de empleados mediante cuestionarios individuales y cruzados."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "klikin",
+          "image": {
+            "alt": "1625654576382.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/86efa7a4-f564-4d74-a422-848168ad4062_1625654576382.jpeg"
+          },
+          "URL": "https://www.klikin.com/"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2016-12-01",
+            "finishDate": "2018-04-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "mongoose",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Payvision",
+          "image": {
+            "alt": "1579635808561.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/ad51ef76-5e29-4fc8-8d03-60720930e636_1579635808561.jpeg"
+          },
+          "URL": "https://www.payvision.com"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2020-09-01",
+            "finishDate": "2022-01-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Azure",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Manfred",
+          "image": {
+            "alt": "1598957687270.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/8a2feef4-a808-4f2a-9e14-3700f98be5d1_1598957687270.jpeg"
+          },
+          "URL": "https://www.getmanfred.com"
+        },
+        "roles": [
+          {
+            "name": "Sotware Engineer",
+            "startDate": "2022-01-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
+            "competences": [
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Hibernate",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "M040: New Features and Tools in MongoDB 4.0",
+        "startDate": "2018-10-01",
+        "finishDate": "2018-10-01",
+        "institution": {
+          "name": "Mongodb",
+          "description": "",
+          "URL": "https://university.mongodb.com/course_completion/c0523d31-640f-4343-8e8d-fb1f8096",
+          "image": {
+            "alt": "1635171226731.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/34803d3d-dbaf-487a-b9c5-5f7db8ecb6f0_1635171226731.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Learn and Understand NodeJS",
+        "startDate": "2016-11-01",
+        "finishDate": "2016-11-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "",
+          "URL": "https://www.udemy.com/certificate/UC-KUOYM8RO/",
+          "image": {
+            "alt": "1626275253364.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/2854665d-0367-41bf-bdcd-10f69b3c8ae9_1626275253364.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "MongoDB for Java Developers",
+        "startDate": "2016-08-01",
+        "finishDate": "2016-08-01",
+        "institution": {
+          "name": "Mongodb",
+          "description": "",
+          "URL": "http://university.mongodb.com/course_completion/df2c0600d7fd479d8db9ab63f42b1382",
+          "image": {
+            "alt": "1635171226731.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/55b39e12-5e6d-428e-b6bb-07b34c3f30e8_1635171226731.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "JavaScript​: Understanding the Weird Parts",
+        "startDate": "2016-01-01",
+        "finishDate": "2016-01-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "",
+          "URL": "https://www.udemy.com/certificate/UC-C6O8AX05/",
+          "image": {
+            "alt": "1626275253364.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/99b3180f-4ca9-412d-9b00-7399197bbdba_1626275253364.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "MongoDB Atlas",
+        "startDate": "2016-09-01",
+        "finishDate": "2016-09-01",
+        "institution": {
+          "name": "Mongodb",
+          "description": "",
+          "URL": "https://university.mongodb.com/course_completion/84bbddd240724df7aaca8cd174f268f9",
+          "image": {
+            "alt": "1635171226731.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/0ec865eb-72c5-45f3-be43-bb52dfea26ef_1635171226731.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniería Informática técnica de sistemas",
+        "startDate": "2004-01-01",
+        "finishDate": "2007-01-01",
+        "institution": {
+          "name": "Universidad Complutense de Madrid",
+          "description": "",
+          "image": {
+            "alt": "1519856536333.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/462ce0bd-7bf3-4321-a848-1932f3ea87dd_1519856536333.jpeg"
+          }
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Programación de Aplicaciones distribuidas J2EE",
+        "startDate": "2007-01-01",
+        "finishDate": "2007-12-01",
+        "institution": {
+          "name": "Universidad Politécnica de Madrid",
+          "description": "Curso: Programación de Aplicaciones distribuidas J2EE (109 Horas)\nFacultad de Informática de la Universidad Politécnica de Madrid.\n• Principales materias o capacidades ocupacionales tratadas:\n- Servlets\n- JSP\n- EJBs\n- JBeans\n- Patrones de diseño\n- Servidor Apache-Tomcat\n- Servidor Jboss",
+          "image": {
+            "alt": "1519940485263.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/d32270f8-8fe5-4646-9686-4186854be595_1519940485263.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JBoss",
+            "type": "technology"
+          },
+          {
+            "name": "EJB",
+            "type": "technology"
+          },
+          {
+            "name": "Tomcat",
+            "type": "technology"
+          },
+          {
+            "name": "JSP",
+            "type": "technology"
+          },
+          {
+            "name": "Servlet",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/alcuvi/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "MongoDB",
+          "type": "technology"
+        },
+        {
+          "name": "AWS",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
