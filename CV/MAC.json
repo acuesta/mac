@@ -12,7 +12,7 @@
       "description": "Informático por vocación.\n\nHago software desde hace más de una década, en consultoría y producto.\n\nMe encanta mi trabajo y el constante aprendizaje que requiere, tanto en su faceta tecnológica como humana.\n\nAlgunas empresas en las que he trabajo son Autentia, Digibis, TwoToForty, Klikin, Waylet y Payvision.\n\nAhora en Manfred...",
       "avatar": {
         "alt": "1517343247880 (1).jpeg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/a9f83a88-e414-473c-bb02-8a6909926ef0_1517343247880-(1).jpeg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/beeb3cff-b891-48b6-89fe-cb541b83ae1b_a9f83a88-e414-473c-b.jpeg"
       },
       "location": {
         "notes": "Madrid"
@@ -58,38 +58,41 @@
     "jobs": [
       {
         "organization": {
-          "name": "Nurun Spain",
+          "name": "klikin",
           "image": {
-            "alt": "1519912573227.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/ab3145de-5860-4d86-b365-20c0bafd5046_1519912573227.jpeg"
+            "alt": "1625654576382.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/1a1b3994-6b25-475a-92bc-19a466c921a6_86efa7a4-f564-4d74-a.jpeg"
           },
-          "URL": "https://www.nurun.com/"
+          "URL": "https://www.klikin.com/"
         },
         "roles": [
           {
-            "name": "Becario - mantenimiento de BBDD",
-            "startDate": "2007-03-01",
-            "finishDate": "2007-09-01",
-            "challenges": [
-              {
-                "description": "Automatización de los procesos de carga de registros (extracción, modificación e inserción) en bases de datos (SQL Server y MySQL) mediante el lenguaje PHP y\nTransac/SQL para el mantenimiento y gestión de diversas páginas web.\n- Diseño de animaciones en Flash 8.\n- Creación de banners.\n- Integración de páginas web diseñadas en Flash con PHP mediante el lenguaje\nActionScript 2.0."
-              }
-            ],
+            "name": "Software Engineer",
+            "startDate": "2016-12-01",
+            "finishDate": "2018-04-01",
             "competences": [
               {
-                "name": "PHP",
+                "name": "JavaScript",
                 "type": "technology"
               },
               {
-                "name": "MySQL",
+                "name": "NodeJS",
                 "type": "technology"
               },
               {
-                "name": "Transact-SQL (T-SQL)",
+                "name": "AWS",
                 "type": "technology"
               },
               {
-                "name": "Flash",
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "mongoose",
                 "type": "technology"
               }
             ]
@@ -98,66 +101,69 @@
       },
       {
         "organization": {
-          "name": "Grupo CMC",
+          "name": "Payvision",
           "image": {
-            "alt": "1591611103763.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/beb87346-ef42-419e-a509-6f7ad2081053_1591611103763.jpeg"
+            "alt": "1579635808561.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/edda4ede-2ce9-4a19-addc-8d1cbc2a6241_ad51ef76-5e29-4fc8-8.jpeg"
           },
-          "URL": "https://www.grupocmc.es"
+          "URL": "https://www.payvision.com"
         },
         "roles": [
           {
-            "name": "Analista - programador",
-            "startDate": "2008-01-01",
-            "finishDate": "2008-09-01",
+            "name": "Software Engineer",
+            "startDate": "2020-09-01",
+            "finishDate": "2022-01-01",
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Azure",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Digibis",
+          "image": {
+            "alt": "1519919525518.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/5774cd77-b62a-49e3-ba4c-4409cf6aed83_53b5abcd-9758-4a81-b.jpeg"
+          },
+          "URL": "http://www.digibis.com"
+        },
+        "roles": [
+          {
+            "name": "Consultor tecnológico",
+            "startDate": "2015-03-01",
+            "finishDate": "2016-12-01",
             "challenges": [
               {
-                "description": "Desarrollo de diversas funcionalidades en java para una aplicación web de juntas de accionistas."
+                "description": "- Introducción de las técnicas de Scrum y kanban como herramientas de desarrollo en el equipo.\n- Migración de la aplicación Digihub para adaptarla a las nuevas necesidades de los clientes.\n- Implementación de nueva funcionalidad sobre las aplicaciones Digihub, DigiArch y Digibib (recolector OAI-PMH, archivos y bibliotecas).\n- Definición de la arquitectura en el arranque de los proyectos nuevos.\n- Implementación de un API REST que cubra el modelo de préstamo bibliotecario.\n- Securización e integración del API REST con las aplicaciones actuales."
               }
             ],
             "competences": [
               {
                 "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
                 "type": "technology"
               },
               {
                 "name": "Oracle",
-                "type": "technology"
-              },
-              {
-                "name": "JSF",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Sopra Steria",
-          "image": {
-            "alt": "1625145380667.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/ab0b5b34-899e-44a6-9fec-9f2253c29654_1625145380667.jpeg"
-          },
-          "URL": "https://www.soprasteria.es"
-        },
-        "roles": [
-          {
-            "name": "Analista - programador",
-            "startDate": "2008-09-01",
-            "finishDate": "2010-03-01",
-            "challenges": [
-              {
-                "description": "Desarrollo de diversos proyectos J2EE para la administración pública.\nConocimientos adquiridos:\n - Struts\n - JAXB\n - Axis2"
-              }
-            ],
-            "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "Struts",
                 "type": "technology"
               },
               {
@@ -170,10 +176,54 @@
       },
       {
         "organization": {
+          "name": "TwoToForty (Matching personas and Business)",
+          "image": {
+            "alt": "1519878615444.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/4a6885d6-4672-4a4b-8416-47f48aa3b260_5c4dca6f-6a30-4cc2-a.jpeg"
+          },
+          "URL": "http://www.twotoforty.com"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2016-12-01",
+            "finishDate": "2018-04-01",
+            "challenges": [
+              {
+                "description": "Desarrollo de una plataforma para la evaluación de empleados mediante cuestionarios individuales y cruzados."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Autentia Real Business Solutions SL",
           "image": {
             "alt": "1645439664015.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/767a68e7-9227-4eb5-bb1d-3514486e8da9_1645439664015.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/973f16c1-184c-4c2e-a3fe-b1eea406338a_767a68e7-9227-4eb5-b.jpeg"
           },
           "URL": "https://www.autentia.com"
         },
@@ -306,21 +356,21 @@
       },
       {
         "organization": {
-          "name": "Digibis",
+          "name": "Sopra Steria",
           "image": {
-            "alt": "1519919525518.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/53b5abcd-9758-4a81-b3b3-69947683863f_1519919525518.jpeg"
+            "alt": "1625145380667.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/8817fd7b-2559-4f90-b7ef-468bfdde02bd_ab0b5b34-899e-44a6-9.jpeg"
           },
-          "URL": "http://www.digibis.com"
+          "URL": "https://www.soprasteria.es"
         },
         "roles": [
           {
-            "name": "Consultor tecnológico",
-            "startDate": "2015-03-01",
-            "finishDate": "2016-12-01",
+            "name": "Analista - programador",
+            "startDate": "2008-09-01",
+            "finishDate": "2010-03-01",
             "challenges": [
               {
-                "description": "- Introducción de las técnicas de Scrum y kanban como herramientas de desarrollo en el equipo.\n- Migración de la aplicación Digihub para adaptarla a las nuevas necesidades de los clientes.\n- Implementación de nueva funcionalidad sobre las aplicaciones Digihub, DigiArch y Digibib (recolector OAI-PMH, archivos y bibliotecas).\n- Definición de la arquitectura en el arranque de los proyectos nuevos.\n- Implementación de un API REST que cubra el modelo de préstamo bibliotecario.\n- Securización e integración del API REST con las aplicaciones actuales."
+                "description": "Desarrollo de diversos proyectos J2EE para la administración pública.\nConocimientos adquiridos:\n - Struts\n - JAXB\n - Axis2"
               }
             ],
             "competences": [
@@ -329,11 +379,7 @@
                 "type": "technology"
               },
               {
-                "name": "REST",
-                "type": "technology"
-              },
-              {
-                "name": "Oracle",
+                "name": "Struts",
                 "type": "technology"
               },
               {
@@ -346,142 +392,10 @@
       },
       {
         "organization": {
-          "name": "TwoToForty (Matching personas and Business)",
-          "image": {
-            "alt": "1519878615444.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/5c4dca6f-6a30-4cc2-afd0-f3c1a6e02cc6_1519878615444.jpeg"
-          },
-          "URL": "http://www.twotoforty.com"
-        },
-        "roles": [
-          {
-            "name": "Software Engineer",
-            "startDate": "2016-12-01",
-            "finishDate": "2018-04-01",
-            "challenges": [
-              {
-                "description": "Desarrollo de una plataforma para la evaluación de empleados mediante cuestionarios individuales y cruzados."
-              }
-            ],
-            "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "Spring",
-                "type": "technology"
-              },
-              {
-                "name": "Angular2+",
-                "type": "technology"
-              },
-              {
-                "name": "AWS",
-                "type": "technology"
-              },
-              {
-                "name": "MongoDB",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "klikin",
-          "image": {
-            "alt": "1625654576382.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/86efa7a4-f564-4d74-a422-848168ad4062_1625654576382.jpeg"
-          },
-          "URL": "https://www.klikin.com/"
-        },
-        "roles": [
-          {
-            "name": "Software Engineer",
-            "startDate": "2016-12-01",
-            "finishDate": "2018-04-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
-            "competences": [
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "AWS",
-                "type": "technology"
-              },
-              {
-                "name": "MongoDB",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              },
-              {
-                "name": "mongoose",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Payvision",
-          "image": {
-            "alt": "1579635808561.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/ad51ef76-5e29-4fc8-8d03-60720930e636_1579635808561.jpeg"
-          },
-          "URL": "https://www.payvision.com"
-        },
-        "roles": [
-          {
-            "name": "Software Engineer",
-            "startDate": "2020-09-01",
-            "finishDate": "2022-01-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
-            "competences": [
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              },
-              {
-                "name": "Azure",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Manfred",
           "image": {
             "alt": "1598957687270.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/8a2feef4-a808-4f2a-9e14-3700f98be5d1_1598957687270.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/0c5eb26c-7c27-498d-a23a-b6241afc769b_8a2feef4-a808-4f2a-9.jpeg"
           },
           "URL": "https://www.getmanfred.com"
         },
@@ -489,11 +403,6 @@
           {
             "name": "Sotware Engineer",
             "startDate": "2022-01-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "NodeJS",
@@ -514,15 +423,86 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Grupo CMC",
+          "image": {
+            "alt": "1591611103763.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/7a32ed88-d7cc-44dc-b8fd-eb2fe903c2e6_beb87346-ef42-419e-a.jpeg"
+          },
+          "URL": "https://www.grupocmc.es"
+        },
+        "roles": [
+          {
+            "name": "Analista - programador",
+            "startDate": "2008-01-01",
+            "finishDate": "2008-09-01",
+            "challenges": [
+              {
+                "description": "Desarrollo de diversas funcionalidades en java para una aplicación web de juntas de accionistas."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "JSF",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Nurun Spain",
+          "image": {
+            "alt": "1519912573227.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/f21adb9c-b702-4ca6-b60b-31c3d69d0f7f_ab3145de-5860-4d86-b.jpeg"
+          },
+          "URL": ""
+        },
+        "roles": [
+          {
+            "name": "Becario - mantenimiento de BBDD",
+            "startDate": "2007-03-01",
+            "finishDate": "2007-09-01",
+            "challenges": [
+              {
+                "description": "Automatización de los procesos de carga de registros (extracción, modificación e inserción) en bases de datos (SQL Server y MySQL) mediante el lenguaje PHP y\nTransac/SQL para el mantenimiento y gestión de diversas páginas web.\n- Diseño de animaciones en Flash 8.\n- Creación de banners.\n- Integración de páginas web diseñadas en Flash con PHP mediante el lenguaje\nActionScript 2.0."
+              }
+            ],
+            "competences": [
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Transact-SQL (T-SQL)",
+                "type": "technology"
+              },
+              {
+                "name": "Flash",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
   "knowledge": {
-    "languages": [
-      {
-        "name": "English"
-      }
-    ],
     "hardSkills": [
       {
         "skill": {
@@ -583,38 +563,15 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
-        "name": "M040: New Features and Tools in MongoDB 4.0",
-        "startDate": "2018-10-01",
-        "finishDate": "2018-10-01",
-        "institution": {
-          "name": "Mongodb",
-          "description": "",
-          "URL": "https://university.mongodb.com/course_completion/c0523d31-640f-4343-8e8d-fb1f8096",
-          "image": {
-            "alt": "1635171226731.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/34803d3d-dbaf-487a-b9c5-5f7db8ecb6f0_1635171226731.jpeg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "MongoDB",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
         "name": "Learn and Understand NodeJS",
         "startDate": "2016-11-01",
         "finishDate": "2016-11-01",
         "institution": {
           "name": "Udemy",
-          "description": "",
           "URL": "https://www.udemy.com/certificate/UC-KUOYM8RO/",
           "image": {
             "alt": "1626275253364.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/2854665d-0367-41bf-bdcd-10f69b3c8ae9_1626275253364.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/f2a9e6ea-1ab2-4fa3-825b-3e1eb9bfefb2_2854665d-0367-41bf-b.jpeg"
           }
         },
         "linkedCompetences": [
@@ -635,16 +592,15 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
-        "name": "MongoDB for Java Developers",
-        "startDate": "2016-08-01",
-        "finishDate": "2016-08-01",
+        "name": "M040: New Features and Tools in MongoDB 4.0",
+        "startDate": "2018-10-01",
+        "finishDate": "2018-10-01",
         "institution": {
           "name": "Mongodb",
-          "description": "",
-          "URL": "http://university.mongodb.com/course_completion/df2c0600d7fd479d8db9ab63f42b1382",
+          "URL": "https://university.mongodb.com/course_completion/c0523d31-640f-4343-8e8d-fb1f8096",
           "image": {
             "alt": "1635171226731.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/55b39e12-5e6d-428e-b6bb-07b34c3f30e8_1635171226731.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/b06e457e-e8ff-430b-8b5e-029e5f06657d_34803d3d-dbaf-487a-b.jpeg"
           }
         },
         "linkedCompetences": [
@@ -662,11 +618,10 @@
         "finishDate": "2016-01-01",
         "institution": {
           "name": "Udemy",
-          "description": "",
           "URL": "https://www.udemy.com/certificate/UC-C6O8AX05/",
           "image": {
             "alt": "1626275253364.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/99b3180f-4ca9-412d-9b00-7399197bbdba_1626275253364.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/6ecc09d4-d929-4cc7-bc27-3e59e5577402_99b3180f-4ca9-412d-9.jpeg"
           }
         },
         "linkedCompetences": [
@@ -679,16 +634,36 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "MongoDB for Java Developers",
+        "startDate": "2016-08-01",
+        "finishDate": "2016-08-01",
+        "institution": {
+          "name": "Mongodb",
+          "URL": "http://university.mongodb.com/course_completion/df2c0600d7fd479d8db9ab63f42b1382",
+          "image": {
+            "alt": "1635171226731.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/fccc9404-c2bc-442e-9e71-7cd807a0d360_55b39e12-5e6d-428e-b.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "MongoDB Atlas",
         "startDate": "2016-09-01",
         "finishDate": "2016-09-01",
         "institution": {
           "name": "Mongodb",
-          "description": "",
           "URL": "https://university.mongodb.com/course_completion/84bbddd240724df7aaca8cd174f268f9",
           "image": {
             "alt": "1635171226731.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/0ec865eb-72c5-45f3-be43-bb52dfea26ef_1635171226731.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/648733b9-773c-4a16-af6e-5d558cf29210_0ec865eb-72c5-45f3-b.jpeg"
           }
         },
         "linkedCompetences": [
@@ -706,10 +681,9 @@
         "finishDate": "2007-01-01",
         "institution": {
           "name": "Universidad Complutense de Madrid",
-          "description": "",
           "image": {
             "alt": "1519856536333.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/462ce0bd-7bf3-4321-a848-1932f3ea87dd_1519856536333.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/a4eb09bf-39b2-4717-b510-3d01907c554f_462ce0bd-7bf3-4321-a.jpeg"
           }
         }
       },
@@ -724,7 +698,7 @@
           "description": "Curso: Programación de Aplicaciones distribuidas J2EE (109 Horas)\nFacultad de Informática de la Universidad Politécnica de Madrid.\n• Principales materias o capacidades ocupacionales tratadas:\n- Servlets\n- JSP\n- EJBs\n- JBeans\n- Patrones de diseño\n- Servidor Apache-Tomcat\n- Servidor Jboss",
           "image": {
             "alt": "1519940485263.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/d32270f8-8fe5-4646-9686-4186854be595_1519940485263.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/202e214e-2902-4446-9c1a-52fc4bacc3a1_d32270f8-8fe5-4646-9.jpeg"
           }
         },
         "linkedCompetences": [
